@@ -62,7 +62,7 @@ Representaremos los 2 principales problemas:
 
     Digamos que existe un 80% de probabilidad de que se quede "pillada":
 
-    - Si se queda pillada, no habrá tiros y sólo mostrará un mensaje: _"Illo, me he quedao pillá!"_
+    - Si se queda pillada, no habrá tiros y sólo mostrará un mensaje: _"Osea tronco, me he quedado pillado!"_
 
     En este enlace sabrás cómo generar números aleatorios: [Math.random()](https://www.w3schools.com/js/js_random.asp)
 
